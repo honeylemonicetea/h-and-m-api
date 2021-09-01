@@ -7,265 +7,386 @@
             "price":"$29.99",
             "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2F50%2F14500d36a746c633573c08b04fbbed381c476394.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
             "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4d%2Fa1%2F4da15d78961c90911125bb3ec6b553aee7300303.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "cream":"#f7f6f3",
-                "lightYellow":"#d8ceac",
-                "lightBlue":"#97a1b0"
-            }
+            "swatches":[
+              {
+                "colorCode": "#f7f6f3",
+                "colorName": "Cream"
+              },
+              {
+                "colorCode": "#d8ceac",
+                "colorName": "Light Yellow"
+              },
+              {
+                "colorCode": "#97a1b0",
+                "colorName": "Light Blue"
+              }
+            ]
         
         },
         {
-            "title": "Sweatshirt Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$34.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F53%2F9253f417f9ec84d552f43492e97b3495afe9c23c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2Fdd%2F18ddfc8d3614af9278fc8605a8867255349b9897.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                 "cream":"#f7f6f3",
-                 "dustyRose": "#b89f90"
+          "title": "Sweatshirt Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$34.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F53%2F9253f417f9ec84d552f43492e97b3495afe9c23c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2Fdd%2F18ddfc8d3614af9278fc8605a8867255349b9897.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#f7f6f3",
+              "colorName": "Cream"
+            },
+            {
+              "colorCode": "#b89f90",
+              "colorName": "Dusty Rose"
             }
-        
+          ]
         },
         {
-            "title": "Crop T-shirt",
-            "category":"tops",
-            "fashionChoice":"female", 
-            "price":"$6.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2Fe0%2F2de01c2c3f93d1319d3ec260beabdf7197cabe9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2F0d%2Fe00dd9983f3bffb35fac8c7821b44d816383c99b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "lightBeige":"#b9b1aa",
-                "black":"#272628",
-                "white":"#ecedec"
+          "title": "Crop T-shirt",
+          "category": "tops",
+          "fashionChoice": "female",
+          "price": "$6.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2Fe0%2F2de01c2c3f93d1319d3ec260beabdf7197cabe9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2F0d%2Fe00dd9983f3bffb35fac8c7821b44d816383c99b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#b9b1aa",
+              "colorName": "Light Beige"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
+            },
+            {
+              "colorCode": "#ecedec",
+              "colorName": "White"
             }
-        
+          ]
         },
         {
-            "title": "Knit Wool Cape",
-            "category":"accessories",
-            "fashionChoice":"female", 
-            "price":"$79.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2F5c%2Fea5c93bf49fb8f2ff495c4478d4d2a1b3067af6d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F23%2Faa%2F23aab3dfe0fd5bb83e0e303b4b513f6f59a032fe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "beigeMelange":"#97897c",
-                "black":"#272628"
+          "title": "Knit Wool Cape",
+          "category": "accessories",
+          "fashionChoice": "female",
+          "price": "$79.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2F5c%2Fea5c93bf49fb8f2ff495c4478d4d2a1b3067af6d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F23%2Faa%2F23aab3dfe0fd5bb83e0e303b4b513f6f59a032fe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#97897c",
+              "colorName": "Beige Melange"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
             }
-        
+            
+          ]
         },
         {
-            "title": "Varsity Jacket",
-            "category":"jackets-coats",
-            "fashionChoice":"female", 
-            "price":"$59.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc3%2F32%2Fc3327a363c1d86338cf01277d01f12cf0a4fb1f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe1%2F71%2Fe171f209c28fb7e2e4e5b3c6a51f6a9a25bfec6c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "darkRed":"#582b34"
+          "title": "Varsity Jacket",
+          "category": "jackets-coats",
+          "fashionChoice": "female",
+          "price": "$59.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc3%2F32%2Fc3327a363c1d86338cf01277d01f12cf0a4fb1f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe1%2F71%2Fe171f209c28fb7e2e4e5b3c6a51f6a9a25bfec6c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#582b34",
+              "colorName": "Dark Red"
             }
-        
+           
+          ]
         },
         {
-            "title": "Collared Jersey Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$19.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2F30%2F7f3094defb5241b85437eec496389adc72bdf939.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2a%2F94%2F2a94a6a0a187d15fcb14ccc7f51e36d8cb4e56c8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "black":"#272628",
-                "lightBlue":"#97a1b0"
+          "title": "Collared Jersey Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$19.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2F30%2F7f3094defb5241b85437eec496389adc72bdf939.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2a%2F94%2F2a94a6a0a187d15fcb14ccc7f51e36d8cb4e56c8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
+            },
+            {
+              "colorCode": "#97a1b0",
+              "colorName": "Light Blue"
             }
-        
+            
+          ]
         },
         {
-            "title": "2-pack Soft-cup Lace Bras",
-            "category":"lingerie",
-            "fashionChoice":"female", 
-            "price":"$29.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F43%2F6b%2F436bcf44f9021657bbf6a5887e2644fb1ce9cdc2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2Fe0%2F7ce0ece9506e2017b7394e2eb02b231947be15e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_lingerie_bras_multipack%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Powder Beige":"#e4ded8",
-                "Black":"#272628"
+          "title": "2-pack Soft-cup Lace Bras",
+          "category": "lingerie",
+          "fashionChoice": "female",
+          "price": "$29.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F43%2F6b%2F436bcf44f9021657bbf6a5887e2644fb1ce9cdc2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2Fe0%2F7ce0ece9506e2017b7394e2eb02b231947be15e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_lingerie_bras_multipack%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#e4ded8",
+              "colorName": "Powder Beige"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
             }
-        
+          ]
         },
         {
-            "title": "Pleated Maxi Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$69.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F25%2F64254144f67c0f587d5d5a6b1298772d7ba0f7ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F99%2Fc4%2F99c4f4f393ad13c357b4b4ed28a8a096b2427a93.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Light Sage Green":"#adada3"
+          "title": "Pleated Maxi Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$69.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F25%2F64254144f67c0f587d5d5a6b1298772d7ba0f7ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F99%2Fc4%2F99c4f4f393ad13c357b4b4ed28a8a096b2427a93.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#adada3",
+              "colorName": "Light Sage Green"
             }
-        
+          ]
         },
         {
-            "title": "Crop T-shirt",
-            "category":"tops",
-            "fashionChoice":"female", 
-            "price":"$6.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffc%2F71%2Ffc7194dfa7a68a72caeccc1db7d1853d22880d40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2F38%2Fec382adfe537b8c45018a3f89b8c32e5168c3302.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "lightBeige":"#b9b1aa",
-                "black":"#272628",
-                "white":"#ecedec"
+          "title": "Crop T-shirt",
+          "category": "tops",
+          "fashionChoice": "female",
+          "price": "$6.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffc%2F71%2Ffc7194dfa7a68a72caeccc1db7d1853d22880d40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2F38%2Fec382adfe537b8c45018a3f89b8c32e5168c3302.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#b9b1aa",
+              "colorName": "Light Beige"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
+            },
+            {
+              "colorCode": "#ecedec",
+              "colorName": "White"
             }
-        
+          ]
         },
         {
-            "title": "Smock-detail Satin Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$49.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F43%2F9243d6261843cb3bb3ad140c2ad10bcc524980e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa2%2F41%2Fa241ae44bd5ec3ac070f275ef437cec6dd1cc80a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "lightBeige":"#b9b1aa"
+          "title": "Smock-detail Satin Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$49.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F43%2F9243d6261843cb3bb3ad140c2ad10bcc524980e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa2%2F41%2Fa241ae44bd5ec3ac070f275ef437cec6dd1cc80a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#b9b1aa",
+              "colorName": "lightBeige"
             }
-        
+          ]
         },
         {
-            "title": "Rib-knit Top",
-            "category":"tops",
-            "fashionChoice":"female", 
-            "price":"$14.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa0%2Fc5%2Fa0c5a4db47c500442b5fc0cc72a4e042b2ff52bb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc4%2F42%2Fc442bff72f984e701fbe25fe6eb918a672eb3e7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "White":"#ffffff",
-                "Light yellow":"#e3c59d",
-                "Light green":"#c3e9b1",
-                "Beige":"#ebe0bf",
-                "Black":"#272628"
+          "title": "Rib-knit Top",
+          "category": "tops",
+          "fashionChoice": "female",
+          "price": "$14.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa0%2Fc5%2Fa0c5a4db47c500442b5fc0cc72a4e042b2ff52bb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc4%2F42%2Fc442bff72f984e701fbe25fe6eb918a672eb3e7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#ffffff",
+              "colorName": "White"
+            },
+            {
+              "colorCode": "#e3c59d",
+              "colorName": "Light yellow"
+            },
+            {
+              "colorCode": "#c3e9b1",
+              "colorName": "Light green"
+            },
+            {
+              "colorCode": "#ebe0bf",
+              "colorName": "Beige"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
             }
-        
+          ]
         },
         {
-            "title": "Open-shoulder Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$39.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2F29%2F1f29bd38c2b2c2834553afd0a544bea9b733b7f5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F85%2F68%2F85686be31d2215c545e31b4ab60c11661a31a326.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Light blue/floral":"#cad6d8"
+          "title": "Open-shoulder Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$39.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2F29%2F1f29bd38c2b2c2834553afd0a544bea9b733b7f5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F85%2F68%2F85686be31d2215c545e31b4ab60c11661a31a326.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#cad6d8",
+              "colorName": "Light blue/floral"
             }
-        
+          ]
         },
         {
-            "title": "Shirt Dress",
-            "category":"dresses",
-            "fashionChoice":"female", 
-            "price":"$39.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb1%2Fed%2Fb1ed735a56b9d9951f21ed2670dc7d2e4d825468.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2F77%2F35777d152f87ee6f0465371e2957989f19069fe9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Black/gray plaid":"#272628"
+          "title": "Shirt Dress",
+          "category": "dresses",
+          "fashionChoice": "female",
+          "price": "$39.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb1%2Fed%2Fb1ed735a56b9d9951f21ed2670dc7d2e4d825468.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2F77%2F35777d152f87ee6f0465371e2957989f19069fe9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#272628",
+              "colorName": "Black/gray plaid"
             }
-        
+          ]
         },
         {
-            "title": "Denim Carpenter Overalls",
-            "category":"jumpsuits-rompers",
-            "fashionChoice":"female", 
-            "price":"$59.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2Fde%2F83de6736496b8913c7f6a668ed4f5e6d8e2665c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2F14%2F7114b6da45a4366eec4e49361a80586190968d0d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Light denim blue":"#8898ac"
+          "title": "Denim Carpenter Overalls",
+          "category": "jumpsuits-rompers",
+          "fashionChoice": "female",
+          "price": "$59.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2Fde%2F83de6736496b8913c7f6a668ed4f5e6d8e2665c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2F14%2F7114b6da45a4366eec4e49361a80586190968d0d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#8898ac",
+              "colorName": "Light denim blue"
             }
-        
+          ]
         },
         {
-            "title": "Regular Fit Flannel Shirt",
-            "category":"shirts",
-            "fashionChoice":"male", 
-            "price":"$29.99",
-            "imageA":"",
-            "imageB":"",
-            "swatches":{
-                "White/black":"#e3e4df",
-                "Dark gray/black":"#7c7d81",
-                "Turquoise/black":"#6b797b",
-                "Light taupe/black":"#a9a398",
-                "Pink/black":"#d9c6ce"
-
+          "title": "Regular Fit Flannel Shirt",
+          "category": "shirts",
+          "fashionChoice": "male",
+          "price": "$29.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2Fce%2F70ced6a4b7a40f22894084b3b30bcbae09303e11.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F62%2Fc6%2F62c6a85dbba3821c2ec130a47053c8174df86ffb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#e3e4df",
+              "colorName": "White/black"
+            },
+            {
+              "colorCode": "#7c7d81",
+              "colorName": "Dark gray/black"
+            },
+            {
+              "colorCode": "#6b797b",
+              "colorName": "Turquoise/black"
+            },
+            {
+              "colorCode": "#a9a398",
+              "colorName": "Light taupe/black"
+            },
+            {
+              "colorCode": "#d9c6ce",
+              "colorName": "Pink/black"
             }
-        
+          ]
         },
         {
-            "title": "Regular Fit Hooded Jacket",
-            "category":"hoodies-sweatshirts",
-            "fashionChoice":"male", 
-            "price":"$29.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2F03%2F1b03f61a83081f9b0a91595940e3972e1338fafc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2Fdb%2F2fdb4d442d011d7b3daa4a949cee7b9927ad0d9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Black":"#272628"
+          "title": "Regular Fit Hooded Jacket",
+          "category": "hoodies-sweatshirts",
+          "fashionChoice": "male",
+          "price": "$29.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2F03%2F1b03f61a83081f9b0a91595940e3972e1338fafc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2Fdb%2F2fdb4d442d011d7b3daa4a949cee7b9927ad0d9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
             }
-        
+          ]
         },
         {
-            "title": "Regular Fit Cargo Pants",
-            "category":"pants",
-            "fashionChoice":"male", 
-            "price":"$39.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2Fea%2Fe0ea22984d81cd96ffe23ddba11c35009c0cfc11.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2F62%2Ff26239c1e49df652eee892cfbc7e667bad75a55c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Black":"#272628",
-                "Beige":"#ebe0bf"
+          "title": "Regular Fit Cargo Pants",
+          "category": "pants",
+          "fashionChoice": "male",
+          "price": "$39.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2Fea%2Fe0ea22984d81cd96ffe23ddba11c35009c0cfc11.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2F62%2Ff26239c1e49df652eee892cfbc7e667bad75a55c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
+            },
+            {
+              "colorCode": "#ebe0bf",
+              "colorName": "Beige"
             }
-        
+          ]
         },
         {
-            "title": "Regular Jeans",
-            "category":"jeans",
-            "fashionChoice":"male", 
-            "price":"$24.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2Fcc%2Fbfcc50ec7c4fc88812bf0b9f758ebf0cc4cd219b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1d%2Fca%2F1dcaf093a3f27269599fd5f6e032fe11efd04e1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Light denim blue":"#8898ac",
-                "Denim blue":"#2f4463",
-                "Dark blue":"#687483",
-                "Black":"#272628"
+          "title": "Regular Jeans",
+          "category": "jeans",
+          "fashionChoice": "male",
+          "price": "$24.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2Fcc%2Fbfcc50ec7c4fc88812bf0b9f758ebf0cc4cd219b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1d%2Fca%2F1dcaf093a3f27269599fd5f6e032fe11efd04e1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#8898ac",
+              "colorName": "Light denim blue"
+            },
+            {
+              "colorCode": "#2f4463",
+              "colorName": "Denim blue"
+            },
+            {
+              "colorCode": "#687483",
+              "colorName": "Dark blue"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Black"
             }
-        
+          ]
         },
         {
-            "title": "Tulle-skirt Jersey Dress",
-            "category":"",
-            "fashionChoice":"kids", 
-            "price":"$14.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2F1e%2F381e6aec95ecaab5d635ee6ae363b26c78fa9922.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2Fa5%2Fbaa577d32f0d7ca5e42fc357a376b38347012ee0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "White/unicorn":"#ffffff",
-                "Dark gray/dalmatians":"#272628",
-                "Pink/unicorn":"#e09d9a"
+          "title": "Tulle-skirt Jersey Dress",
+          "category": "",
+          "fashionChoice": "kids",
+          "price": "$14.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2F1e%2F381e6aec95ecaab5d635ee6ae363b26c78fa9922.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2Fa5%2Fbaa577d32f0d7ca5e42fc357a376b38347012ee0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#ffffff",
+              "colorName": "White/unicorn"
+            },
+            {
+              "colorCode": "#272628",
+              "colorName": "Dark gray/dalmatians"
+            },
+            {
+              "colorCode": "#e09d9a",
+              "colorName": "Pink/unicorn"
             }
-        
+          ]
         },
         {
-            "title": "Cotton Flannel Shirt",
-            "category":"shirts",
-            "fashionChoice":"kids", 
-            "price":"$19.99",
-            "imageA":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2F01%2F0101eef6478751992f1a34ee9e88daaab2b291db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-            "imageB":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd2%2Fe2%2Fd2e29ee854bd45b4369859355a5843803f76f60c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-            "swatches":{
-                "Blue/checked":"#4995ca",
-                "Dark blue/white plaid":"#23396c",
-                "Brown/checked":"#97562a"
+          "title": "Cotton Flannel Shirt",
+          "category": "shirts",
+          "fashionChoice": "kids",
+          "price": "$19.99",
+          "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2F01%2F0101eef6478751992f1a34ee9e88daaab2b291db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd2%2Fe2%2Fd2e29ee854bd45b4369859355a5843803f76f60c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+          "swatches": [
+            {
+              "colorCode": "#4995ca",
+              "colorName": "Blue/checked"
+            },
+            {
+              "colorCode": "#23396c",
+              "colorName": "Dark blue/white plaid"
+            },
+            {
+              "colorCode": "#97562a",
+              "colorName": "Brown/checked"
             }
-        
+          ]
         }
         
     ]
