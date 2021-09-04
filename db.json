@@ -1,6 +1,7 @@
 {
     "clothing":[
         {
+            "id": 1, 
             "title": "Rib-knit Cardigan",
             "category":"cardigans-sweaters",
             "fashionChoice":"female", 
@@ -24,6 +25,7 @@
         
         },
         {
+          "id":2,
           "title": "Sweatshirt Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -42,6 +44,7 @@
           ]
         },
         {
+          "id": 3,
           "title": "Crop T-shirt",
           "category": "tops",
           "fashionChoice": "female",
@@ -64,6 +67,7 @@
           ]
         },
         {
+          "id": 4,
           "title": "Knit Wool Cape",
           "category": "accessories",
           "fashionChoice": "female",
@@ -79,10 +83,10 @@
               "colorCode": "#272628",
               "colorName": "Black"
             }
-            
           ]
         },
         {
+          "id": 5,
           "title": "Varsity Jacket",
           "category": "jackets-coats",
           "fashionChoice": "female",
@@ -94,10 +98,10 @@
               "colorCode": "#582b34",
               "colorName": "Dark Red"
             }
-           
           ]
         },
         {
+          "id": 6,
           "title": "Collared Jersey Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -113,10 +117,10 @@
               "colorCode": "#97a1b0",
               "colorName": "Light Blue"
             }
-            
           ]
         },
         {
+          "id": 7,
           "title": "2-pack Soft-cup Lace Bras",
           "category": "lingerie",
           "fashionChoice": "female",
@@ -135,6 +139,7 @@
           ]
         },
         {
+          "id": 8,
           "title": "Pleated Maxi Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -149,6 +154,7 @@
           ]
         },
         {
+          "id": 9,
           "title": "Crop T-shirt",
           "category": "tops",
           "fashionChoice": "female",
@@ -171,6 +177,7 @@
           ]
         },
         {
+          "id": 10,
           "title": "Smock-detail Satin Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -185,6 +192,7 @@
           ]
         },
         {
+          "id": 11,
           "title": "Rib-knit Top",
           "category": "tops",
           "fashionChoice": "female",
@@ -215,6 +223,7 @@
           ]
         },
         {
+          "id": 12,
           "title": "Open-shoulder Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -229,6 +238,7 @@
           ]
         },
         {
+          "id": 13,
           "title": "Shirt Dress",
           "category": "dresses",
           "fashionChoice": "female",
@@ -243,6 +253,7 @@
           ]
         },
         {
+          "id": 14,
           "title": "Denim Carpenter Overalls",
           "category": "jumpsuits-rompers",
           "fashionChoice": "female",
@@ -257,6 +268,7 @@
           ]
         },
         {
+          "id": 15,
           "title": "Regular Fit Flannel Shirt",
           "category": "shirts",
           "fashionChoice": "male",
@@ -287,6 +299,7 @@
           ]
         },
         {
+          "id": 16,
           "title": "Regular Fit Hooded Jacket",
           "category": "hoodies-sweatshirts",
           "fashionChoice": "male",
@@ -301,6 +314,7 @@
           ]
         },
         {
+          "id": 17,
           "title": "Regular Fit Cargo Pants",
           "category": "pants",
           "fashionChoice": "male",
@@ -319,6 +333,7 @@
           ]
         },
         {
+          "id": 18,
           "title": "Regular Jeans",
           "category": "jeans",
           "fashionChoice": "male",
@@ -345,6 +360,7 @@
           ]
         },
         {
+          "id": 19,
           "title": "Tulle-skirt Jersey Dress",
           "category": "",
           "fashionChoice": "kids",
@@ -367,6 +383,7 @@
           ]
         },
         {
+          "id": 20,
           "title": "Cotton Flannel Shirt",
           "category": "shirts",
           "fashionChoice": "kids",
