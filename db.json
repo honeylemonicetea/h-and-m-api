@@ -852,7 +852,2033 @@
             }
           ],
           "productDescription": "Cardigan in a soft, fine-knit viscose blend with buttons at front and ribbing at neckline, cuffs, and hem."
-        }
+        },
+         {
+           "id": 35,
+           "title": "Lightweight puffer jacket",
+           "category": "jackets-coats",
+           "fashionChoice": "male",
+           "price": "£24.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F36%2Fc5%2F36c5feba788e7a2cdab4f100e4fd63d5b2ed991c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_puffer%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff7%2F2e%2Ff72e808f4c73dac11bf70a8535fee0e7185b09a0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_puffer%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F57%2F11%2F5711a86fd1d5cbe15a1ac50189912488e7100ea1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_puffer%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fee%2F1d%2Fee1d8dbcdfae0185e968a80677a7132efa8a2c87.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_puffer%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#312c32",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#343440",
+               "colorName": "Navy blue"
+             },
+             {
+               "colorCode": "#9c633f",
+               "colorName": "Light brown"
+             },
+             {
+               "colorCode": "#9d9aa0",
+               "colorName": "Light grey"
+             },
+             {
+               "colorCode": "#6d2f39",
+               "colorName": "Dark red"
+             }
+           ],
+           "productDescription": "Lightweight puffer jacket in woven fabric with a hood and discreet zip down the front with a chin guard. Pockets in the side seams with a concealed zip, and narrow elastication at the cuffs and hem. Unlined."
+         },
+         {
+           "id": 36,
+           "title": "Lined denim jacket",
+           "category": "jackets-coats",
+           "fashionChoice": "male",
+           "price": "£49.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2Fb9%2F71b9e4ee44436521ee52cae81fa5858d61fa31ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Faa%2F84%2Faa8469bdeed7727ac135d13c1ff192108ce9f9a0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffa%2F76%2Ffa76da93250f7331024158e7d0926af5e4e427fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2Fec%2Fe2ece4ecc1ab4f4d536baec733301653ea5ca199.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#272429",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#52657c",
+               "colorName": "Denim blue"
+             }
+           ],
+           "productDescription": "Jacket in sturdy cotton denim with a soft, faux shearling lining. Buttons down the front, a yoke front and back, flap chest pockets with a button, and diagonal welt front pockets. Long sleeves with buttoned cuffs, and an adjustable tab at the sides of the hem."
+         },
+         {
+           "id": 37,
+           "title": "Hooded denim jacket",
+           "category": "jackets-coats",
+           "fashionChoice": "male",
+           "price": "£34.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2Fbc%2Fbabca8527d9dd7f646972b7580756fe69114e204.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb9%2F7f%2Fb97f7513ed99cf5699aae01d00734b8a7edb31d1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8d%2Fa8%2F8da8aa43979a3118394b7dab07822947b5e6cef4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F9d%2Fbd9da13fb8a787f7403fae631f9fd54f00670d64.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#667884",
+               "colorName": "Denim blue/Grey"
+             }
+           ],
+           "productDescription": "Jacket in washed denim with a hood and sleeves in sweatshirt fabric. Collar, jersey-lined drawstring hood, buttons down the front, flap chest pockets with a button and side pockets. Ribbing at the cuffs, and an adjustable tab at the sides of the hem. Unlined."
+         },
+         {
+           "id": 38,
+           "title": "Water-repellent parka",
+           "category": "jackets-coats",
+           "fashionChoice": "male",
+           "price": "£49.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2F16%2F7116b7327d1983da00a192fcb25c205e534c762c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2Fc1%2F7fc1facb917afdb53f63d4e34a866df55cbdac31.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb2%2F52%2Fb252108663a7677e7082c1b65e0e911c5d6bf6e7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F84%2Faf%2F84afde5ec4301d9a60ba63213a7b754cca7f3137.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#212123",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#444531",
+               "colorName": "Khaki green"
+             }
+           ],
+           "productDescription": "Parka in water-repellent cotton twill with a lined, drawstring hood and stand-up collar. Zip and wind flap with press-studs down the front, front flap pockets with a concealed press-stud and a press-stud at the cuffs. Drawstring at the waist and at the hem for an adjustable fit. Lined."
+         },
+         {
+           "id": 39,
+           "title": "Fine-knit jumper",
+           "category": "jackets-coats",
+           "fashionChoice": "male",
+           "price": "£17.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F3a%2F183a44b540565d33ac8cc09efc1b8a241ab14c6f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fda%2F24%2Fda241e515801f9d7628c754b31bb4be8145a3fda.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd4%2F76%2Fd4763d8f26d14159a22cffd303d62103cac2fbc7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fda%2F00%2Fda00124756830bcd0e92322aa33b33abbe70522a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#191718",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#b1b1af",
+               "colorName": "Grey marl"
+             },
+             {
+               "colorCode": "#dedcd0",
+               "colorName": "Cream"
+             },
+             {
+               "colorCode": "#202237",
+               "colorName": "Navy blue"
+             },
+             {
+               "colorCode": "#6e6d71",
+               "colorName": "Grey marl"
+             },
+             {
+               "colorCode": "#7b8890",
+               "colorName": "Light blue marl"
+             },
+             {
+               "colorCode": "#6b93a5",
+               "colorName": "Blue marl"
+             }
+           ],
+           "productDescription": "Jumper in a soft, fine cotton knit with a round neck, long sleeves and ribbing at the cuffs and hem."
+         },
+         {
+           "id": 40,
+           "title": "Relaxed Fit Hoodie",
+           "category": "hoodies-sweatshirts",
+           "fashionChoice": "male",
+           "price": "£17.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F00%2Fee%2F00ee44f51dd21148a2b73c8ae5855b72999a1e12.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2F6a%2F766aae0a8c8ba468b68f383e96af6d8f418ec7a4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2F47%2F5947f2d78cced596e404d2993a83275962c7fa48.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3c%2F1d%2F3c1dbc21c496f67dfab63c63ff1e6263623a67cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#201f21",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#dee2eb",
+               "colorName": "White"
+             },
+             {
+               "colorCode": "#b3aba0",
+               "colorName": "Greige"
+             },
+             {
+               "colorCode": "#cdcdcb",
+               "colorName": "Light grey marl"
+             },
+             {
+               "colorCode": "#d8c9d8",
+               "colorName": "Light purple"
+             },
+             {
+               "colorCode": "#d5e2aa",
+               "colorName": "Neon green"
+             },
+             {
+               "colorCode": "#2769b3",
+               "colorName": "Bright blue"
+             }
+           ],
+           "productDescription": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined, drawstring hood, long sleeves, kangaroo pocket and ribbing at the cuffs and hem. Soft brushed inside."
+         },
+         {
+           "id": 41,
+           "title": "Relaxed Fit Zip-through hoodie",
+           "category": "hoodies-sweatshirts",
+           "fashionChoice": "male",
+           "price": "£17.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F22%2Fc0%2F22c0cd6ea3a9373bb6cfa89163f1e1e861fd60db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8e%2Fb6%2F8eb6c0c8b85a450c5eeeb772b1803255cf357748.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F42%2F14%2F42147fd54f4da5b4956b37500c7f4fc478575365.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8b%2Fcf%2F8bcf0eb3ad23f27be4c1128a7bc5972af788175d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#191919",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#6f7c8a",
+               "colorName": "Dark grey"
+             },
+             {
+               "colorCode": "#bdbfbe",
+               "colorName": "Grey marl"
+             },
+             {
+               "colorCode": "#29536b",
+               "colorName": "Petrol"
+             },
+             {
+               "colorCode": "#bcb4a5",
+               "colorName": "Light beige"
+             }
+           ],
+           "productDescription": "Zip-through hoodie in sweatshirt fabric. Jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside."
+         },
+         {
+           "id": 42,
+           "title": "Long, hooded cardigan",
+           "category": "cardigans-sweaters",
+           "fashionChoice": "male",
+           "price": "£24.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F56%2Fda%2F56da20a3a41fe2c66ce5dbfe7ac58a8d5f082669.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_cardigans%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbc%2Ff5%2Fbcf5f370a1727404e0ac951bd9966583f6bb8398.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_cardigans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2Faf%2Fddaf7b7e73dd785c551c1c268ada7b5b56efa0e1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_cardigans%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F60%2F3e60ecc7491e91fefd9796701280402a294a8a9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_cardigans%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#1b181b",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#9c9998",
+               "colorName": "Grey"
+             }
+           ],
+           "productDescription": "Long cardigan in lightweight sweatshirt fabric with visible seams.Jersey-lined, drawstring hood, long sleeves, side pockets, and an asymmetric, raw-edge hem. No fasteners."
+         },
+         {
+           "id": 43,
+           "title": "Merino wool jumper",
+           "category": "cardigans-sweaters",
+           "fashionChoice": "male",
+           "price": "£34.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2a%2F7b%2F2a7b77222b60ce2fedbcc696a6c0ea737d97616a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2Fe7%2F0ee799da8b26c00236e284e23a249cce4777367f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F84%2F64%2F84645eadcc5a2e2ee602c6252ed23711e949fe57.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2F2e%2Fb72e03c6f363badb8e69c597ce1b6bb03ba9904b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#a5784e",
+               "colorName": "Dark beige"
+             },
+             {
+               "colorCode": "#68686b",
+               "colorName": "Grey marl"
+             },
+             {
+               "colorCode": "#181818",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#25222f",
+               "colorName": "Navy blue"
+             },
+             {
+               "colorCode": "#42413b",
+               "colorName": "Dark khaki green"
+             },
+             {
+               "colorCode": "#e9e8d6",
+               "colorName": "Cream"
+             },
+             {
+               "colorCode": "#b4b0ad",
+               "colorName": "Light grey"
+             }
+           ],
+           "productDescription": "Long-sleeved jumper in soft, fine-knit merino wool with ribbing around the neckline, cuffs and hem."
+         },
+         {
+           "id": 44,
+           "title": "Premium cotton T-shirt",
+           "category": "tops",
+           "fashionChoice": "male",
+           "price": "£12.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb2%2Ff4%2Fb2f4d372a3e280f4f52115af885a67d9f2655425.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2Fa0%2F7fa05cd6a253cbb34ddfeb9f50ab8996b52147f0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2F21%2Fbf2114940e14848abd211ac4bdd85847e673dd9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2Fd9%2F73d99aae7c71aec2c14ed8a6c0c6d08fa371cb58.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "swatches": [
+             {
+               "colorCode": "#202022",
+               "colorName": "Black"
+             },
+             {
+               "colorCode": "#202022",
+               "colorName": "White"
+             },
+             {
+               "colorCode": "#2b2f3b",
+               "colorName": "Dark blue"
+             },
+             {
+               "colorCode": "#cac2b7",
+               "colorName": "Light beige marl"
+             },
+             {
+               "colorCode": "#392025",
+               "colorName": "Dark burgundy"
+             },
+             {
+               "colorCode": "#969696",
+               "colorName": "Grey marl"
+             }
+           ],
+           "productDescription": "Round-necked T-shirt in premium cotton jersey."
+         },
+         {
+           "id": 45,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 46,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 47,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 48,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 49,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 50,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 51,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 52,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 53,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 54,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 55,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 56,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 57,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 58,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id":59 ,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 60,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 61,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 62,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 63,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 64,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 65,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 66,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 67,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 68,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 69,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 70,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 71,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 72,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 73,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 74,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 75,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 76,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 77,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 78,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 79,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 80,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 81,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 82,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 83,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 84,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 85,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 86,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 87,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id": 88,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         },
+         {
+           "id":89 ,
+           "title": "",
+           "category": "",
+           "fashionChoice": "",
+           "price": "",
+           "imageA": "",
+           "imageB": "",
+           "imageC": "",
+           "imageD": "",
+           "swatches": [
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             },
+             {
+               "colorCode": "",
+               "colorName": ""
+             }
+           ],
+           "productDescription": ""
+         }
         
     ]
 }
