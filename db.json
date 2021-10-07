@@ -1171,193 +1171,141 @@
          },
          {
            "id": 45,
-           "title": "",
-           "category": "",
-           "fashionChoice": "",
-           "price": "",
-           "imageA": "",
-           "imageB": "",
-           "imageC": "",
-           "imageD": "",
+           "title": "Skinny Jeans",
+           "category": "jeans",
+           "fashionChoice": "male",
+           "price": "£17.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F90%2F83906d6c2f5c6b94e8cf9f4421412d3270c25f54.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8d%2F59%2F8d592c0d3183668187ca199ea5366e04ed6e35b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbc%2Fd2%2Fbcd230b944b7364a65bcab14d632a708d5167d98.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa4%2F8c%2Fa48c0fc5feadd279a6edb73dc91f0e1f8467bf61.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
            "swatches": [
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#191718",
+               "colorName": "Black"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#344969",
+               "colorName": "Denim blue"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#3a3839",
+               "colorName": "Dark grey"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#90a9c4",
+               "colorName": "Light denim blue"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#201e27",
+               "colorName": "Dark blue"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#2c3a53",
+               "colorName": "Dark denim blue"
              }
            ],
-           "productDescription": ""
+           "productDescription": "5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button, and skinny legs."
          },
          {
            "id": 46,
-           "title": "",
-           "category": "",
-           "fashionChoice": "",
-           "price": "",
-           "imageA": "",
-           "imageB": "",
-           "imageC": "",
-           "imageD": "",
+           "title": "Regular Fit Sweatshorts",
+           "category": "sportswear",
+           "fashionChoice": "male",
+           "price": "$12.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F24%2F7e%2F247ef080a0ed95abc5f2f7658c5b84577f2b767f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F72%2F8372f8021571011b6654057ae6a53c1fedb0bc0e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa4%2F46%2Fa446709e03fcb0ace0b0320494683c28e8111d44.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F85%2F7f%2F857f3a956e5f0e8fbd96b528e56e0f6b4c454de5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
            "swatches": [
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#1d1d1f",
+               "colorName": "Black"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#bababc",
+               "colorName": "Gray melange"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#5d6879",
+               "colorName": "Dark gray"
              },
              {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#e5cdd9",
+               "colorName": "Light pink"
              }
            ],
-           "productDescription": ""
+           "productDescription": "Sweatshorts in a cotton blend. Elasticized waistband with drawstring, side pockets, and an open back pocket. Raw, rolled-edge hems."
          },
          {
            "id": 47,
-           "title": "",
-           "category": "",
-           "fashionChoice": "",
-           "price": "",
-           "imageA": "",
-           "imageB": "",
-           "imageC": "",
-           "imageD": "",
+           "title": "Running Shorts",
+           "category": "sportswear",
+           "fashionChoice": "male",
+           "price": "$24.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2F27%2F80275655d99fbc2a857177c47f6cd43d9fcaef41.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F85%2F46%2F8546afe7a10e4824a559c08f265b9a41eb113621.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F00%2F08%2F0008dd0fa680d6bb00f5b2a4667e4067d0b14182.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F91%2F66%2F916670b70c215da73623811b18dcaddd377b60bc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
            "swatches": [
              {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#7fc0d6",
+               "colorName": "Blue"
              }
            ],
-           "productDescription": ""
+           "productDescription": "Shorts in fast-drying, functional fabric to help keep you dry and cool while running. Elasticized waistband with concealed drawstring, side pockets with zipper, and ventilating mesh at gusset for increased ventilation. Legs with reflective details for increased visibility outdoors, slit at one side of hems, and soft liner shorts."
          },
          {
            "id": 48,
-           "title": "",
-           "category": "",
-           "fashionChoice": "",
-           "price": "",
-           "imageA": "",
-           "imageB": "",
-           "imageC": "",
-           "imageD": "",
+           "title": "Canvas High Tops",
+           "category": "shoes",
+           "fashionChoice": "male",
+           "price": "$29.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2F4b%2F094b85db73bdf6266f60679dabb770b7a418b114.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdf%2Fba%2Fdfba9f65bcf558aee53d288cd0aed57b86d122e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F77%2Fd6%2F77d6ec1736b93822fbb9db80eec00b72aa99afd1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F30%2F74%2F3074627cf9ee28dbbed9706c01a9989d628528c9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
            "swatches": [
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#252620",
+               "colorName": "Black"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#e2e3e1",
+               "colorName": "White"
              },
              {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#525a44",
+               "colorName": "Khaki green"
              }
            ],
-           "productDescription": ""
+           "productDescription": "High tops in thick cotton canvas with tongue and lacing at front. Cotton canvas lining and insoles. Rubber soles with a pattern underneath. Sole thickness 1 1/4 in."
          },
          {
            "id": 49,
-           "title": "",
-           "category": "",
-           "fashionChoice": "",
-           "price": "",
-           "imageA": "",
-           "imageB": "",
-           "imageC": "",
-           "imageD": "",
+           "title": "Chiffon Skirt",
+           "category": "skirts",
+           "fashionChoice": "female",
+           "price": "$13.99",
+           "imageA": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1e%2Fe0%2F1ee0663d9b10b320f3defcd172695b069f8ad9ea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageB": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F24%2Ff2%2F24f2a8489c500f514d5d0123f06777031e6b6948.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+           "imageC": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa6%2F5d%2Fa65dc5ab3ef925a8b3ba10f3619201ef9d072041.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+           "imageD": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb0%2Fe0%2Fb0e0549164c56fa94ee4412eaf9685a7b1c6e044.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
            "swatches": [
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#d7b5b1",
+               "colorName": "Light pink"
              },
              {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#a68db6",
+               "colorName": "Light purple"
              },
              {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
-             },
-             {
-               "colorCode": "",
-               "colorName": ""
+               "colorCode": "#221f24",
+               "colorName": "Black"
              }
            ],
-           "productDescription": ""
+           "productDescription": "Short skirt in two layers of chiffon with plumeti. Elasticized waistband with ruffle trim. Lined. Polyester content is recycled."
          },
          {
            "id": 50,
